@@ -51,9 +51,7 @@ Portfolio/
 	.gitignore
 ```
 
-## Deployment
 
-This project is automatically deployed to GitHub Pages whenever changes are merged into the main branch. The live site can be viewed at: `https://[your-username].github.io/Portfolio/`
 
 ### Contributing
 
